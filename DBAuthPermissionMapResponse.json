@@ -1,0 +1,15 @@
+{
+    "errorMessage": null,
+    "errorState": null,
+    "permMapEx": [
+                  {
+                  "paramId": 704,
+                  "permission": 2
+                  },
+                  {
+                  "paramId": 705,
+                  "permission": 2
+                  }
+                  ],
+    "retCode": 0
+}
