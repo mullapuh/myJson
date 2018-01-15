@@ -1,0 +1,38 @@
+{
+    "errorMsg": null,
+    "errorState": null,
+    "associate": {
+        "allowMultiLogins": 0,
+        "authorizationId": 1,
+        "emailAddress": "",
+        "invalidLogins": 0,
+        "languageId": 0,
+        "lastLogin": {
+            "day": 19,
+            "fraction": 0,
+            "hour": 15,
+            "minute": 35,
+            "month": 9,
+            "second": 54,
+            "year": 2017
+        },
+        "multiStore": 1,
+        "multiStoreExpire": {
+            "day": 1,
+            "month": 1,
+            "year": 1900
+        },
+        "orgId": 1,
+        "password": "admin",
+        "passwordCipher": 0,
+        "sLTSId": 0,
+        "sLTSStatus": 0,
+        "status": 1,
+        "userId": "admin",
+        "userName": "administrator account"
+    },
+    "foreignUser": {
+        "lInt": 0
+    },
+    "retCode": 0
+}
